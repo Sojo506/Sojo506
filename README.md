@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sojo506&label=Profile%20views&color=0e75b6&style=flat" alt="sojo506" /> </p>
 
-- 🌱 I’m currently learning **Dart**
+- 🌱 I’m currently learning **Java**
 
 - 👨‍💻 All of my projects are available at [https://sojo506.vercel.app/](https://sojo506.vercel.app/)
 
