@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 👨‍💻 All of my projects are available at [https://sojo506.vercel.app/](https://sojo506.vercel.app/)
+- 👨‍💻 Some of my projects are available at [https://sojo506.vercel.app/](https://sojo506.vercel.app/)
 
 - 💬 Ask me about **Wev Development, JavaScript**
 
