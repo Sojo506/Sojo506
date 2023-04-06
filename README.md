@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **fabiansojowork@gmail.com**
 
-- ⚡ Fun fact **I'm always trying to have a good environment when I'm doing pair programming**
+- ⚡ Quote **never stop learning**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
