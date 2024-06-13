@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Wev Development, JavaScript**
 
-- 📫 How to reach me **fabiansojowork@gmail.com**
+- 📫 How to reach me **fsojodev@gmail.com**
 
 - ⚡ Quote **never stop learning**
 
