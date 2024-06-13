@@ -5,9 +5,7 @@
 
 - 🌱 I’m currently learning everyday
 
-- 👨‍💻 Some of my projects are available at [https://sojodev.vercel.app/](https://sojodev.vercel.app/)
-
-- 💬 Ask me about **Wev Development, JavaScript**
+- 👨‍💻 Some of my projects are available at [soon)
 
 - 📫 How to reach me **fsojodev@gmail.com**
 
