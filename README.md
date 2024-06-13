@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fabián Sojo</h1>
-<h3 align="center">A Full Stack Developer</h3>
+<h3 align="center">A Programmer</h3>
 <img align="right" alt="Coding" width="400" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F1059583%2Fscreenshots%2F4171367%2Fcoding-freak.gif&f=1&nofb=1&ipt=c10cd0df3629dd6b0356df1cfcf8340e8a678d7c30927cef88a32e98eb5f0b96&ipo=images" />
 
 
