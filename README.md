@@ -9,6 +9,8 @@
 
 - 📫 How to reach me **fsojodev@gmail.com**
 
+- 🤖 HackerRank **https://www.hackerrank.com/profile/fabiansojowork**
+
 - ⚡ Quote **never stop learning**
 
 <h3 align="left">Connect with me:</h3>
